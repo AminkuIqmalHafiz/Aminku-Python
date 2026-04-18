@@ -1,5 +1,6 @@
 # Aminku_Python
 The Rule: Zero AI Assistance
+
 This repository is my personal python workbench for foundational computer science and quantitative economics. No Large Language Models (LLMs) or AI auto-complete tools were used to generate the code in this directory.
 
 Objective
