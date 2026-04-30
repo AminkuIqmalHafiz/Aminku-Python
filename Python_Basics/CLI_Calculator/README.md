@@ -17,3 +17,4 @@ By building this project, I successfully implemented and understood the followin
 To run this application natively in your terminal, ensure you have Python installed and run:
 ```bash
 python cli_calculator.py
+```
